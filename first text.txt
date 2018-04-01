@@ -8,3 +8,11 @@ HELLO É
 CHANGE 1
 
 Change addition change
+
+
+
+
+Change 2
+
+Change with a pdf file deleted in master
+
